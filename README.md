@@ -1,4 +1,4 @@
 # Back-End-Developer-Capstone
 
-#USERNAME=root
-#PASSWORD=root
+- **USERNAME:** root
+- **PASSWORD:** root
